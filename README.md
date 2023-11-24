@@ -2,5 +2,5 @@
 
 ### compile and run
 ```
-make
+mkdir build && make
 ```
